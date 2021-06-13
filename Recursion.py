@@ -1,4 +1,4 @@
-# Recursion (Function inside a function or a function calls itself)
+# Recursion (function calls itself)
 
 import sys
 
